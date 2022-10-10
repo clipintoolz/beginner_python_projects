@@ -1,6 +1,6 @@
 #!/usr/bin/env python3.10
 
-# scans for the folder with the most files
+# scans for the folder with the most amount of files
 import os
 from pathlib import Path
 
